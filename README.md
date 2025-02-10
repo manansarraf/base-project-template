@@ -53,3 +53,7 @@ Inside the src/config folder create a file named as config.json and write the fo
 -- if you're using development envoirnment then mention username ,password for yur DB. and in dialect mention whatever Db you are using for ex: mariadb,mysql etc.
 
 - if you're selecting test or production envoirnment ,make sure you also replace the host with the hosted db url
+
+
+-- to run the server execute
+npm run dev 
